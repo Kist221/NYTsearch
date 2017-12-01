@@ -1,7 +1,7 @@
 // NYT Search App
 var APIkey = "f944a4982edc4da3aa536bb309f9fcf4";
 
-var url = "https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key="+APIkey+"?q="+query;
+var url = "https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key="+APIkey+"&q="+query;
 
 var query = "sample";
 
